@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//pruebas de comit
 
 @Composable
 fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
