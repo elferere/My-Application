@@ -49,7 +49,7 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
         Text(
             text = message,
             fontSize = 30.sp,
-            // Cambia el color del texto
+            // Cambia el color del texto //comit
             color = if (message == "Luis Orozco") Color.Red else Color.Unspecified
         )
         Text(
